@@ -5,13 +5,7 @@ Name : MD. Rana Prodhania
 
 Batch Name: PWDS-IA-29-2023
 
-Assignment - 2
-
-
-
-
-
-
+Assignment - 1
 
 ## Screenshots
 ### Home Page:
