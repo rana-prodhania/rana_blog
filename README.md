@@ -1,5 +1,5 @@
 
-# Project Online Event Registration
+# Project Simple Blog
 
 Name : MD. Rana Prodhania
 
